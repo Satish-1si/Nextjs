@@ -1,0 +1,20 @@
+*{
+     margin: 0%;
+     padding: 0%;
+     box-sizing: border-box;
+}
+.navcontainer{
+     display:flex;
+     align-items: center;
+     justify-content: space-around;
+     background-color: rgb(220, 7, 46);
+     height:90px;
+     width:100%;
+     list-style-type: none;
+     font-weight: bold;
+     
+}
+.navcontainer a{
+     color:white;
+     font-family: sans-serif;
+}
